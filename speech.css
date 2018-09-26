@@ -1,0 +1,33 @@
+body{
+    
+     position: relative
+}
+
+#first{
+    background-image: url("http://thewowstyle.com/wp-content/uploads/2015/01/1-beautiful-nature-backgrounds-nature-wallpapers-nature-landscape-photo-nature-wallpapers.jpeg");
+    
+}
+
+#second{
+    background-image:url("https://wallpaper-house.com/data/out/9/wallpaper2you_346377.jpg");
+    
+}
+
+#third{
+    
+    background-image: url("http://thewowstyle.com/wp-content/uploads/2015/01/Desktop-Nature-Wallpaper-21.jpg");
+}
+
+.parallax{
+    
+    height:500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.divider{
+    
+    height:150px
+}
