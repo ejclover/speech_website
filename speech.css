@@ -25,9 +25,25 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 240px 0;
+    background-position: 0 0;
 }
 
 .divider{
     
-    height:150px
+    height:300px
+}
+
+div h1 {
+  color: #1e1e1e;
+  font-size: 48px;
+  line-height: 1;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px white;
+}
+.container {
+  max-width: 960px;
+  margin: 0 auto;
 }
